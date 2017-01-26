@@ -40,6 +40,13 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] Ambient Display with customizations
 [*] OMS-N7
 [*] XPerience Active Display
+[*] Pocket Judge
+    * Judge if device is in pocket.
+    * Notify clients callbacks when pocked state changes.
+    * Start listening when device becomes not interactive.
+    * Stop listening when device becomes interactive and is NOT in pocket.
+[*] policy: introduce pocket lock 
+[*] fingerprint: disable when device is in pocket 
 [/list]
 
 [B][U]WORKING:[/U][/B]
