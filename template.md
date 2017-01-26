@@ -4,7 +4,7 @@ Maded by Klozz Jesus AKA TeamMEX
 
 
 XPerience is a free, community built distribution of Android 7.1.1 (Nougat) which greatly extends the capabilities of your phone.
-This project are based on AOSP 
+This project are based on AOSP CAF
 
 [CODE]#include <std_disclaimer.h>
 /*
@@ -27,7 +27,6 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] too much things are broken
 [*] Report with logcat and dmesg
 [*] Screenshots representative only
-[*] YES IS NOUGAT 7.1
 [/list]
 [/QUOTE][/CENTER]
 
@@ -39,11 +38,8 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] XPerience Updater
 [*] NetworkTrafficMetter
 [*] Ambient Display with customizations
-[*] Partial screenshot how it work? here:  http://www.xda-developers.com/partial-screenshots-demoed-on-android-7-1-nougat/
-[*] Force expanded notifications
-[*] Disable inmersive messages
-[*] Inmersive recents
-[*] Alessa app for kernel tweaking.
+[*] OMS-N7
+[*] XPerience Active Display
 [/list]
 
 [B][U]WORKING:[/U][/B]
@@ -55,20 +51,20 @@ Working
    [*] MTP
    [*] Sensors
    [*] Led
-   [*] SU (recommended use SuperSU)
    [*] Wi-Fi
    [*] MUSIC
    [*] sounds 
    [*] Videos
    [*] Camera
    [*] camcoder
-   [*] SELinux 
-   [*] Fingerprint
+   [*] SELinux
 [/list]
 
 [B][U]Not working/ Bugs:[/U][/B]
 [list]
-   [*] You tell me
+   [*] 
+   [*] 
+   [*] 
 [/list]
 
 [B]How to install:[/B]
@@ -76,7 +72,7 @@ Working
 [*] Download zip from Downloads:
 [*] Put zip into Internal Storage
 [*] Reboot into Recovery like TWRP
-[*] Flash zip file XPerience-11.x.x-xxxxxxx-athene.zip
+[*] Flash zip file XPerience-11.x.x-xxxxxxx-device.zip
 [*] Flash Gaaps
 [*] Wipe dalvick-cache and cache 
 [*] Reboot and config 
@@ -84,14 +80,19 @@ Working
 [/list]
 
 [B]Screenshots:[/B]
-[IMG]https://lh3.googleusercontent.com/kZALl70IyK8K9eP6yr65OJcWdqFjyqU4v3xSdO24DqHJqN2yVkjM48wDqsoVJequMw-rOZ-nqQ=w1366-h768-no[/IMG][IMG]https://lh3.googleusercontent.com/57od6hclz_GKD6C0XyZANfedOdcU6XoJrfJBHvP28wYeIvAHNXL0htTGwXA81ElpHHEshRqYrA=w1366-h768-no[/IMG][HIDE][IMG]https://lh3.googleusercontent.com/LLz0pL3W2JP-PDQr35ewRF_den3jXcmuVThuj_IsNkz4rkkv1OrU_Stf1f5kCcWrk9HwnT5rLQ=w1366-h768-no[/IMG]
-[IMG]https://lh3.googleusercontent.com/PMqU07kkEfe-9ecMjIFgxHHz35g0Mf7Piv_i5RKZfp5gDZHtfudBQYE4E-J9ic05Rey4hPrA-Q=w1366-h768-no[/IMG][IMG]https://lh3.googleusercontent.com/q2bFUcyGRGh67n1fCJuXm2o_XtR55tCalxX1y6lOyLaex5o3TcQXyU8FYJKI7C9gP9eQfZKYyQ=w1366-h768-no[/IMG]
+[IMG]https://lh3.googleusercontent.com/x9PMh0Oz9R4XLaBRFa1YYqUYI86g3W4c0tIaTHMKvsoQz4JJCn9vRhI84Ee92Y7X9uJr4TYq7LhSQOxYRrbg-Odn2eua4rtK=w1366-h768-rw-no[/IMG][IMG]https://lh3.googleusercontent.com/CAge6su7c4PdeEP02-d2NOxEMv2Y4DnMywU-ysFIwzPxLkBTjh-jcs0I_t2GnxeBRazKEOiQ5bU4Ttm2Ab6LQNtfUQdlfdu6=w1366-h768-rw-no[/IMG]
+[HIDE]
+[IMG]https://lh3.googleusercontent.com/0PXgwTgK5bgzf3U6QykAeaY_jfRVy4e1pt80HOZWZBDLUA1l8KPexLhgs48SMkjIQ6eDuuI7MHNIbsoRwS0scllMi1EttJtC=w1366-h768-rw-no[/IMG][IMG]https://lh3.googleusercontent.com/8GlDophHYZsU01CCb290oB7UC4avRNJY6SKcX1xU3fwYZWRA4Fj3PSuHUtBhk73IY-pqyE7fFYi2G4uWW7b_DuCVTlfRlvaZ=w1366-h768-rw-no[/IMG][IMG]https://lh3.googleusercontent.com/CUntWbf15v8tBRMttby0pViCXsGn22HuE5oJ3g9OXbcus2ybc3wnLGVggSXayByZOaShwr9kihLRmpHRvKXsaSwXxACOnkRt=w1366-h768-rw-no[/IMG][IMG]https://lh3.googleusercontent.com/T3A8t1SREN39a3tEJPsez8qVh8vNx-8odn2fF6IrXgMN67-W1UccmpYqH2ueYBEwjTe24dqyMTf24SerqIa88AN4OKFvoFnP=w1366-h768-rw-no[/IMG][IMG]https://lh3.googleusercontent.com/8blpKMnnvdvV8c52Q6IfF0J5Lz1jO03qrI9XMg2I8BmG2HJi0jgDs9J1_Qo2SEMRPvF2F4341m9BK1BOEasne0tA7PzJNkjx=w1366-h768-rw-no[/IMG]
 [/HIDE]
 
 
 [CENTER][IMG]http://i1094.photobucket.com/albums/i456/klozz_/getxpe.png[/IMG]
-add url of android file host folder
-[URL="http://thexperienceproject.com/downloads/"]The web can redirect too :D http://thexperienceproject.com/downloads/[/URL]
+[URL="urlandroidfilehostfolderofxpe"] Android File Host[/URL]
+
+Or the web
+[URL="http://thexperienceproject.com"]http://thexperienceproject.com[/URL]
+[B]MD5:[/B]
+
 
 [B]Google APPS[/B] 
 [URL="http://opengapps.org"]http://opengapps.org[/URL]
@@ -99,14 +100,7 @@ add url of android file host folder
 [/CENTER]
 
 
-Since some people seem to not know how to read properly I have to do it
-
-[SIZE="7"]SETTINGS->About->View Changelog[/SIZE]
-
 [B]Changelog in second Post:[/B]
-[QUOTE][SIZE="4"]
-[B][I][U]Thank you for Donate: (if u want to post ur nick instead of your name send PM)[/U][/I][/B][/SIZE]
-
 
 [CENTER]
 [B][SIZE="4"][FONT="Comic Sans MS"]If you like my work, you can buy me a coffee with your donatives. All donations are appreciated. :) and this can help me to pay some bills about internet [/FONT][/SIZE][/B]
