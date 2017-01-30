@@ -39,6 +39,10 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] NetworkTrafficMetter
 [*] Ambient Display with customizations
 [*] OMS-N7
+[*] Force expanded notifications
+[*] Disable inmersive messages
+[*] Inmersive recents
+[*] Alessa app for kernel tweaking.
 [*] XPerience Active Display
 [*] Pocket Judge
     * Judge if device is in pocket.
