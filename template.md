@@ -24,7 +24,6 @@ All required device configs, blobs and kernel source are on my github u know the
 [list]
 [*] Please don ask for etas
 [*] Please don't report same bugs all time
-[*] too much things are broken
 [*] Report with logcat and dmesg
 [*] Screenshots representative only
 [/list]
@@ -52,6 +51,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] policy: introduce pocket lock 
 [*] fingerprint: disable when device is in pocket 
 [*] One Hand mode (slide your finger across the navigation bat to switch between the standard and mini screen views(from the center))
+[*] App sidebar
 [/list]
 
 [B][U]WORKING:[/U][/B]
