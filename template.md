@@ -52,6 +52,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] fingerprint: disable when device is in pocket 
 [*] One Hand mode (slide your finger across the navigation bat to switch between the standard and mini screen views(from the center))
 [*] App sidebar
+[*] Burning protect (Navbar and status bar (only on AMOLED display's)).
 [/list]
 
 [B][U]WORKING:[/U][/B]
