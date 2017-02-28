@@ -53,6 +53,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] One Hand mode (slide your finger across the navigation bat to switch between the standard and mini screen views(from the center))
 [*] App sidebar
 [*] Burning protect (Navbar and status bar (only on AMOLED display's)).
+[*] You can use Dolby atmos or Viper4android without change Selinux (I added some selinux changes for it)
 [/list]
 
 [B][U]WORKING:[/U][/B]
