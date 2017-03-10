@@ -35,7 +35,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [list]
 [*] Substratum support(Rootless)
 [*] XPerience Updater
-[*] NetworkTrafficMetter
+[*] Network Traffic Meter
 [*] Ambient Display with customizations
 [*] OMS-N7
 [*] Force expanded notifications
@@ -70,7 +70,7 @@ Working
    [*] sounds 
    [*] Videos
    [*] Camera
-   [*] camcoder
+   [*] camcorder
    [*] SELinux
 [/list]
 
@@ -88,7 +88,7 @@ Working
 [*] Reboot into Recovery like TWRP
 [*] Flash zip file XPerience-11.x.x-xxxxxxx-device.zip
 [*] Flash Gaaps
-[*] Wipe dalvick-cache and cache 
+[*] Wipe dalvik-cache and cache 
 [*] Reboot and config 
 [*] Reboot Again and enjoy!
 [/list]
