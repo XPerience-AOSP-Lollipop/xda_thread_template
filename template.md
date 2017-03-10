@@ -1,6 +1,6 @@
 [CENTER][IMG]http://i1094.photobucket.com/albums/i456/klozz_/XPerience1_zpsebdd4893.png[/IMG] 
 XPerience 11.X.X for the device
-Maded by Klozz Jesus AKA TeamMEX
+Made by Klozz Jesus AKA TeamMEX
 
 
 XPerience is a free, community built distribution of Android 7.1.1 (Nougat) which greatly extends the capabilities of your phone.
@@ -22,7 +22,7 @@ This project are based on AOSP CAF
 [QUOTE]
 All required device configs, blobs and kernel source are on my github u know the url :)
 [list]
-[*] Please don ask for etas
+[*] Please don't ask for etas
 [*] Please don't report same bugs all time
 [*] Report with logcat and dmesg
 [*] Screenshots representative only
@@ -33,26 +33,26 @@ All required device configs, blobs and kernel source are on my github u know the
 [B][U]Features:
 [/U][/B]
 [list]
-[*] Substratum support
+[*] Substratum support(Rootless)
 [*] XPerience Updater
 [*] NetworkTrafficMetter
 [*] Ambient Display with customizations
 [*] OMS-N7
 [*] Force expanded notifications
-[*] Disable inmersive messages
-[*] Inmersive recents
+[*] Disable immersive messages
+[*] Immersive recents
 [*] Alessa app for kernel tweaking.
 [*] XPerience Active Display
 [*] Pocket Judge
     * Judge if device is in pocket.
-    * Notify clients callbacks when pocked state changes.
+    * Notify clients callbacks when pocket state changes.
     * Start listening when device becomes not interactive.
     * Stop listening when device becomes interactive and is NOT in pocket.
 [*] policy: introduce pocket lock 
 [*] fingerprint: disable when device is in pocket 
-[*] One Hand mode (slide your finger across the navigation bat to switch between the standard and mini screen views(from the center))
+[*] One Hand mode (slide your finger across the navigation bar to switch between the standard and mini screen views(from the center))
 [*] App sidebar
-[*] Burning protect (Navbar and status bar (only on AMOLED display's)).
+[*] Burning protect (Navbar and statusbar (only on AMOLED display's)).
 [*] You can use Dolby atmos or Viper4android without change Selinux (I added some selinux changes for it)
 [/list]
 
