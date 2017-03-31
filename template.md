@@ -54,6 +54,8 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] App sidebar
 [*] Burning protect (Navbar and statusbar (only on AMOLED display's)).
 [*] You can use Dolby atmos or Viper4android without change Selinux (I added some selinux changes for it)
+[*] VoLTE Icon
+[*] Magisk Manager
 [/list]
 
 [B][U]WORKING:[/U][/B]
