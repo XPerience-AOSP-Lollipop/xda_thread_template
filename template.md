@@ -118,5 +118,6 @@ Or the web
 [B]Changelog in second Post:[/B]
 
 [CENTER]
-[B][SIZE="4"][FONT="Comic Sans MS"]If you like my work, you can buy me a coffee with your donatives. All donations are appreciated. :) and this can help me to pay some bills about internet [/FONT][/SIZE][/B]
+[B][SIZE="4"][FONT="Comic Sans MS"]If you like my work, you can buy me a coffee with your donatives. All donations are appreciated. :) and this can help me to pay some bills about internet and build server
+Atte: Klozz[/FONT][/SIZE][/B]
 [URL="http://forum.xda-developers.com/donatetome.php?u=4403780"][IMG]http://parentscouncil.org/sites/default/files/images/donate-paypal.png[/IMG][/URL][/CENTER]
