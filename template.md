@@ -59,7 +59,6 @@ All required device configs, blobs and kernel source are on my github u know the
 [/list]
 
 [B][U]WORKING:[/U][/B]
-Working
 [list]
    [*] Rild
    [*] LTE/3G/2G
