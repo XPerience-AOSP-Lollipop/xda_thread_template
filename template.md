@@ -3,7 +3,7 @@ XPerience 11.X.X for the device
 Made by Klozz Jesus AKA TeamMEX
 
 
-XPerience is a free, community built distribution of Android 7.1.1 (Nougat) which greatly extends the capabilities of your phone.
+XPerience is a free, community built distribution of Android 7.1.2 (Nougat) which greatly extends the capabilities of your phone.
 This project are based on AOSP CAF
 
 [CODE]#include <std_disclaimer.h>
@@ -59,7 +59,6 @@ All required device configs, blobs and kernel source are on my github u know the
 [/list]
 
 [B][U]WORKING:[/U][/B]
-Working
 [list]
    [*] Rild
    [*] LTE/3G/2G
