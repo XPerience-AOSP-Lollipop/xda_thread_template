@@ -56,6 +56,10 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] You can use Dolby atmos or Viper4android without change Selinux (I added some selinux changes for it)
 [*] VoLTE Icon
 [*] Magisk Manager
+[*] WakelockBlocker
+[*] Clean recents with fab
+[*] Alarm block
+[*] Unlock using fingerprint without enter Pin/Pattern(only devices with fingerprint)
 [/list]
 
 [B][U]WORKING:[/U][/B]
