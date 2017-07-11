@@ -60,6 +60,8 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] Alarm block
 [*] Unlock using fingerprint without enter Pin/Pattern(only devices with fingerprint)
 [*] XPERIA apps supported (download it from Play store)
+[*] Back button panic enabled
+[*] more...
 [/list]
 
 [B][U]WORKING:[/U][/B]
@@ -125,4 +127,6 @@ Or the web
 [CENTER]
 [B][SIZE="4"][FONT="Comic Sans MS"]If you like my work, you can buy me a coffee with your donatives. All donations are appreciated. :) and this can help me to pay some bills about internet and build server
 Atte: Klozz[/FONT][/SIZE][/B]
-[URL="http://forum.xda-developers.com/donatetome.php?u=4403780"][IMG]http://parentscouncil.org/sites/default/files/images/donate-paypal.png[/IMG][/URL][/CENTER]
+[URL="http://forum.xda-developers.com/donatetome.php?u=4403780"][IMG]http://parentscouncil.org/sites/default/files/images/donate-paypal.png[/IMG]
+Ór
+https://www.paypal.me/TheXPerienceProject [/URL][/CENTER]
