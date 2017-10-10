@@ -1,4 +1,4 @@
-[CENTER][IMG]http://i1094.photobucket.com/albums/i456/klozz_/XPerience1_zpsebdd4893.png[/IMG] 
+[CENTER][IMG]https://i.imgur.com/YMYeo6c.png[/IMG] 
 XPerience 11.X.X for the device
 Made by Klozz Jesus AKA TeamMEX
 
@@ -108,7 +108,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [/HIDE]
 
 
-[CENTER][IMG]http://i1094.photobucket.com/albums/i456/klozz_/getxpe.png[/IMG]
+[CENTER][IMG]https://i.imgur.com/55XrtxW.png[/IMG]
 [URL="urlandroidfilehostfolderofxpe"] Android File Host[/URL]
 
 Or the web
