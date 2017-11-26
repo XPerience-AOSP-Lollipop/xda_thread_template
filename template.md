@@ -1,9 +1,9 @@
 [CENTER][IMG]https://i.imgur.com/YMYeo6c.png[/IMG] 
-XPerience 11.X.X for the device
+XPerience 12.0 for the MOTO G 2015
 Made by Klozz Jesus AKA TeamMEX
 
 
-XPerience is a free, community built distribution of Android 7.1.2 (Nougat) which greatly extends the capabilities of your phone.
+XPerience is a free, community built distribution of Android 8.0 (Oreo) which greatly extends the capabilities of your phone.
 This project are based on AOSP CAF
 
 [CODE]#include <std_disclaimer.h>
@@ -20,7 +20,7 @@ This project are based on AOSP CAF
 
 [CENTER][B][I][U][FONT="Arial Black"][SIZE="4"]NOTE: READ this PLS[/SIZE][/FONT][/U][/I][/B]
 [QUOTE]
-All required device configs, blobs and kernel source are on my github u know the url :)
+
 [list]
 [*] Please don't ask for etas
 [*] Please don't report same bugs all time
@@ -77,15 +77,13 @@ All required device configs, blobs and kernel source are on my github u know the
    [*] sounds 
    [*] Videos
    [*] Camera
-   [*] camcorder
    [*] SELinux
+   [*] VoLTE
 [/list]
 
 [B][U]Not working/ Bugs:[/U][/B]
 [list]
-   [*] 
-   [*] 
-   [*] 
+   [*] camcorder (Works in footej)
 [/list]
 
 [B]How to install:[/B]
@@ -93,7 +91,7 @@ All required device configs, blobs and kernel source are on my github u know the
 [*] Download zip from Downloads:
 [*] Put zip into Internal Storage
 [*] Reboot into Recovery like TWRP
-[*] Flash zip file XPerience-11.x.x-xxxxxxx-device.zip
+[*] Flash zip file XPerience-12.x-xxxxxxx-device.zip
 [*] Flash Gaaps
 [*] Wipe dalvik-cache and cache 
 [*] Reboot and config 
@@ -109,7 +107,7 @@ All required device configs, blobs and kernel source are on my github u know the
 
 
 [CENTER][IMG]https://i.imgur.com/55XrtxW.png[/IMG]
-[URL="urlandroidfilehostfolderofxpe"] Android File Host[/URL]
+[URL="https://sourceforge.net/projects/althafvly/files/osprey/"]Source Forge[/URL]
 
 Or the web
 [URL="http://thexperienceproject.com"]http://thexperienceproject.com[/URL]
@@ -122,11 +120,3 @@ Or the web
 [/CENTER]
 
 
-[B]Changelog in second Post:[/B]
-
-[CENTER]
-[B][SIZE="4"][FONT="Comic Sans MS"]If you like my work, you can buy me a coffee with your donatives. All donations are appreciated. :) and this can help me to pay some bills about internet and build server
-Atte: Klozz[/FONT][/SIZE][/B]
-[URL="http://forum.xda-developers.com/donatetome.php?u=4403780"][IMG]http://parentscouncil.org/sites/default/files/images/donate-paypal.png[/IMG]
-Ór
-https://www.paypal.me/TheXPerienceProject [/URL][/CENTER]
